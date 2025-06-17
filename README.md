@@ -1,16 +1,16 @@
 ### Big Data Analysis on Bundesliga using PySpark
 
-###Company : CodTech It Solution
+### Company : CodTech It Solution
 
-###Name : Keval Rathod
+### Name : Keval Rathod
 
-###Intern ID : CT04DG627
+### Intern ID : CT04DG627
 
-###Domain : Data Analytics
+### Domain : Data Analytics
 
-###Duration : 4 Weeks
+### Duration : 4 Weeks
 
-###Mentor Name : Neela Santosh 
+### Mentor Name : Neela Santosh 
 
 
 
